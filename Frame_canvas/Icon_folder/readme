@@ -1,1 +1,7 @@
 This folder is about icon_image
+I : 'Input layer'
+O : 'Output layer'
+D : 'Dense layer'
+C : 'Convolution layer'
+P : 'Pooling layer'
+L : 'LSTM layer'
